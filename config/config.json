@@ -1,0 +1,14 @@
+{
+  "development": {
+    "storage": "lms.db",
+    "dialect": "sqlite"
+  },
+  "test": {
+    "storage": "lms.db",
+    "dialect": "sqlite"
+  },
+  "production": {
+    "storage": "lms.db",
+    "dialect": "sqlite"
+  }
+}
