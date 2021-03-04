@@ -1,6 +1,6 @@
 # LMS-api
 
-1. open this file in your text editor
+1. open this project in your text editor
 
 2. open your terminal and run the command "npm install" (You need node.js for this)
 
